@@ -36,7 +36,7 @@ gem install bundler
 
 ```bash
 git clone git@github.com:lifen-labs/covid.git && cd covid
-bundle exec install && yarn install
+bundle install && yarn install
 bundle exec rails db:setup
 ```
 
